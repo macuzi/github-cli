@@ -3,7 +3,7 @@ components:
     APITokenResult:
       properties:
         api_token:
-          description: API token with the prefix `api_`. This token inherits all permissions
+          description: API test token with the prefix `api_`. This token inherits all permissions
             of users and acts on behalf of users.
           title: API Token
           type: string
