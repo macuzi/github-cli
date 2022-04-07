@@ -957,7 +957,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/User'
-          description: Successful Response
+          description: Successful Response Test
       security:
       - HTTPBearer: []
       summary: Read Users Me
